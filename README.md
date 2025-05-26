@@ -17,4 +17,6 @@
 - Сильный дисбаланс классов 
 
 
-## Реализация в файле [Credit_Card_Fraud_Detection](https://github.com/rabotimnogo/Fraud_Detection/blob/main/Credit_card_fraud_detection_project%20.ipynb). Советую вставить ссылку (https://github.com/rabotimnogo/Fraud_Detection/blob/main/Credit_card_fraud_detection_project%20.ipynb) в nbviewer.org и просматривать проект там.
+## Реализация [Credit_Card_Fraud_Detection](https://github.com/rabotimnogo/Fraud_Detection/blob/main/Credit_card_fraud_detection_project%20.ipynb). 
+
+Советую вставить ссылку (https://github.com/rabotimnogo/Fraud_Detection/blob/main/Credit_card_fraud_detection_project%20.ipynb) в nbviewer.org и просматривать проект там.
